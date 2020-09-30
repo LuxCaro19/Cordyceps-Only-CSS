@@ -6,7 +6,7 @@ var users=[
     {email:"spear@gmail.com", pass:"spear"},
     {email:"joel.tlou@gmail.com", pass:"joelMM"},
     {email:"neutron.owo@gmail.com", pass:"neutral"},
-    {email:"turboman@gmail.com", pass:"ajaja"}
+    {email:"turboman@gmail.com", pass:"contra"}
 ];
 
 buttonLogin.addEventListener("click", function(){
