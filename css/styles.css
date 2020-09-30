@@ -253,6 +253,13 @@ body{
     font-family: 'Indie Flower', cursive;
 }
 
+.respuesta{
+
+    text-align: center;
+    padding: 30px;
+
+}
+
 @media screen and (min-width: 728px){
 
 
