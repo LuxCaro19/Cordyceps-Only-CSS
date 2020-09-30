@@ -41,7 +41,7 @@ buttonLogin.addEventListener("click", function(){
 
             if(item.email==email.value && item.pass==pass.value){
                 resp.style.color="black";
-                resp.innerHTML="Iniciando sesion...."
+                resp.innerHTML="Iniciando sesion..."
             }else if(item.email!=email.value && item.pass!=pass.value){
                 
                 resp.style.color="red";
