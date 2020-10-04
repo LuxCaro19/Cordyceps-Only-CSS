@@ -32,6 +32,12 @@ body{
     color: white;
 }
 
+.header h3 a{
+
+    text-decoration: none;
+    color: white;
+}
+
 .menu ul{
 
     display: flex;
@@ -135,6 +141,31 @@ body{
 
 }
 
+.login input{
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    border: 0px;
+    background-color: rgba(134, 185, 177, 0.836);
+
+}
+
+.login h1{
+
+    color:rgba(17, 102, 102, 0.932);
+    font-family: 'Piedra', cursive;
+
+}
+
+.login button a{
+    text-decoration: none;
+    color: white;
+}
+
 .infoPagina{
     padding: 50px;
     display: flex;
@@ -146,6 +177,7 @@ body{
 .infoPagina h3{
 
     font-family: 'Piedra', cursive;
+
 
 }
 
@@ -219,6 +251,13 @@ body{
 
 .infoFooter p{
     font-family: 'Indie Flower', cursive;
+}
+
+.respuesta{
+
+    text-align: center;
+    padding: 30px;
+
 }
 
 @media screen and (min-width: 728px){
