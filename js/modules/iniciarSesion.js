@@ -26,7 +26,7 @@ buttonLogin.addEventListener("click", function(){
         resp.innerHTML="Ingresa tu Email";
 
 
-    }else if(pass.value==""){1
+    }else if(pass.value==""){
 
         resp.style.color="red";
         resp.innerHTML="Ingresa tu Contraseña";
